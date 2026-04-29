@@ -24,7 +24,10 @@ Internet → Application Gateway → Backend Webapi → Middleware → SQL
 - Appservice integration with Appgw
 
 
-1.	Name the concept where you position the applications/workloads in Azure/Cloud
+1.	Name the concept where you position the applications/workloads in Azure/Cloud.
+   
     N-tier architecture with workload isolation
-2.	What would be the name of the networking structure we should use in the architecture above.
+  	
+3.	What would be the name of the networking structure we should use in the architecture above.
+   
     Hub-Spoke network model would be apt for this.
