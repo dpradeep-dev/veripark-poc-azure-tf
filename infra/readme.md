@@ -21,16 +21,10 @@ Internet → Application Gateway → Backend Webapi → Middleware → SQL
 - Azure Firewall
 - CI/CD pipeline
 - VPN to connect on-prem
-- Autoscaling and GRS
-- Log enablement
+- Appservice integration with Appgw
 
-Due to time constraint, not able to implement the above.
 
-## Questions 
-1.	Name the concept where you position the applications/workloads in Azure/Cloud.
-   
+1.	Name the concept where you position the applications/workloads in Azure/Cloud
     N-tier architecture with workload isolation
-  	
-3.	What would be the name of the networking structure we should use in the architecture above.
-   
+2.	What would be the name of the networking structure we should use in the architecture above.
     Hub-Spoke network model would be apt for this.
