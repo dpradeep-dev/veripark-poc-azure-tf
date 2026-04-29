@@ -23,7 +23,7 @@ Internet → Application Gateway → Backend Webapi → Middleware → SQL
 - VPN to connect on-prem
 - Appservice integration with Appgw
 
-
+## Questions 
 1.	Name the concept where you position the applications/workloads in Azure/Cloud.
    
     N-tier architecture with workload isolation
